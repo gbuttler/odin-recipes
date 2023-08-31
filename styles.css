@@ -1,0 +1,28 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+h1 {
+    color:#3049c2;
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.recipe {
+    text-align: left;
+    font-size: 26px;
+}
+
+.aubergine, a {
+    color: #582f82;
+}
+
+.pesto, a {
+    color: #406934;
+}
+
+.kedgeree, a {
+    color: #ebd652;
+}
